@@ -35,7 +35,7 @@ This cmdlet returns a list of events that identify the role instance or virtual 
 
 ### 1:
 ```
-
+Get-AzureDeploymentEvent -DeploymentName "ContosoDeployment" -ServiceName "ContosoService"
 ```
 
 ## PARAMETERS
